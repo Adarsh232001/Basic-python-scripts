@@ -6,3 +6,4 @@ Small python scripts which will be helpful to start learning python
 3. [Bulk Rename](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/bulk_rename.py)
 4. [Calculate Age](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/calculate_age.py)
 5. [Deadline](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/deadline.py)
+6. [Encrypting PDF](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/encryptPdf.py)
