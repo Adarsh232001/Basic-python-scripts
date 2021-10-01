@@ -13,3 +13,4 @@ Small python scripts which will be helpful to start learning python
 10. [Odd or Even minute](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/odd_even_time.py)
 11. [QR Code Generator](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/qrcode_generator.py)
 12. [Scree Recorder](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/screen_recorder.py)
+13. [Stack](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/stack.py)
