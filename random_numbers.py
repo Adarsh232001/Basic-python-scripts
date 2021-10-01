@@ -5,4 +5,4 @@ ws = wb.active
 for i in range(1,58):
     ws.append([random.randint(1,8)])
 
-wb.save("moblie_application_development_internals.xlsx")
+wb.save("random_number.xlsx")
