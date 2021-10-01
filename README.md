@@ -14,3 +14,4 @@ Small python scripts which will be helpful to start learning python
 11. [QR Code Generator](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/qrcode_generator.py)
 12. [Scree Recorder](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/screen_recorder.py)
 13. [Stack](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/stack.py)
+14. [Random Numbers](https://github.com/Adarsh232001/Basic-python-scripts/blob/main/random_numbers.py)
